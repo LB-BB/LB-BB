@@ -1,8 +1,5 @@
 ### Hi, I'm LB. 
 
-<!--
-**LB-BB/LB-BB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a nonbinary coder (the irony!). 
 I'm in the Grace Hopper program at Fullstack Academy, acting to advance queer and femme representation in software engineering.
 
