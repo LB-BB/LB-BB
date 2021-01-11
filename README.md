@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm LB. 
 
 <!--
 **LB-BB/LB-BB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a nonbinary coder (the irony!). 
+I'm in the Grace Hopper program at Fullstack Academy, acting to advance queer and femme representation in software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My larger goals:
+To be part of an ethical workforce that uses Artificial Intelligence. 
+To make accessible and prosocial technology.
+
+Tech I'm currently obsessed with: 
+Brain.js
+
+Ask me about:
+Neural nets, environmental justice, escape rooms
