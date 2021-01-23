@@ -2,6 +2,7 @@
 
 I'm in the Grace Hopper program at Fullstack Academy, acting to advance queer and femme representation in software engineering.
 
+
 My larger goals:
 
 => To be part of an ethical workforce that uses Artificial Intelligence. 
@@ -10,11 +11,13 @@ My larger goals:
 
 => To make prosocial and pro-environmental technology.
 
+
 Tech I'm currently obsessed with: 
 
 => Tensorflo.js
 
 => Brain.js
+
 
 Ask me about:
 
