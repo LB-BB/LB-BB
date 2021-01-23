@@ -14,7 +14,7 @@ My larger goals:
 
 Tech I'm currently obsessed with: 
 
-=> Tensorflo.js
+=> Tensorflow.js
 
 => Brain.js
 
