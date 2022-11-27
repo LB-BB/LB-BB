@@ -6,6 +6,6 @@ I became interested in coding when I was in college studying environmental scien
 
 I have also seen over 800 films. Let's discuss your favorite!
 
-Visit my website at lb-bb.com.
+Visit my website at lb-bb.github/io/home.
 
 
